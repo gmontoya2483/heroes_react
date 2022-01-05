@@ -1,7 +1,44 @@
-# Getting Started with Create React App
+# Heroes REACT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Temas cubiertos en el proyecto
+
+### Single Page application (React Router v.6)
+
+- SPA ( Single Page Application ) a profundidad
+- Diferentes temas en la misma aplicación aplicados a diferentes rutas
+- Multiples Routers
+- Push y Replace en el History
+- Leer argumentos por URL
+- QueryParams
+- Aplicar filtros utilizando QueryStrings
+
+---
+
+### Proteccion de rutas 
+
+- Rutas públicas
+- Rutas privadas
+- Login y logout - Sin backend aún
+- Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario.
+- Context
+- Reducer
+
+---
+
+### Pruebas Unitarias
+
+- Nuevos tipos de pruebas
+- Pruebas en rutas privadas y públicas
+- MemoryRouter
+- Pruebas en nuestro DashboardRouter
+- Pruebas en el AppRouter
+- Simular URLs y segmentos
+- Simular queryParams y queryStrings
+
+---
+---
 ## Available Scripts
 
 In the project directory, you can run:
